@@ -47,7 +47,7 @@
 		"zod": "^3.23.8"
 	},
 	"devDependencies": {
-		"@faker-js/faker": "^8.4.1",
+		"@faker-js/faker": "^10.5.0",
 		"@types/lodash": "^4.17.5",
 		"@types/node": "^20.14.1",
 		"@types/pg": "^8.11.6",
